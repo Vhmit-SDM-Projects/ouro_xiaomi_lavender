@@ -147,6 +147,7 @@ ro.telephony.default_network=22,22
 ro.vendor.use_data_netmgrd=true
 
 # Rendering
+debug.cpurend.vsync=false
 ro.config.avoid_gfx_accel=true
 
 # Sensors
