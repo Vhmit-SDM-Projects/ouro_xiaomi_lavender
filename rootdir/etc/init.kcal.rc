@@ -1,0 +1,7 @@
+#
+# Tianma display burnin hack by DarkJoker360
+#
+
+on init
+    write /sys/devices/platform/kcal_ctrl.0/kcal_enable 1
+    write /sys/devices/platform/kcal_ctrl.0/kcal "230 230 230"
